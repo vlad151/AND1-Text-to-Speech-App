@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Library"
+        android:icon="@drawable/ic_baseline_library_24"
+        android:id="@+id/library"/>
+    <item android:title="Create Audio"
+        android:icon="@drawable/ic_baseline_mic_none_24"
+        android:id="@+id/createAudio"/>
+    <item android:title="Profile"
+        android:icon="@drawable/ic_baseline_person_outline_24"
+        android:id="@+id/profile"/>
+</menu>
