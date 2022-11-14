@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "92155936655",
+    "project_id": "speechful-19583",
+    "storage_bucket": "speechful-19583.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92155936655:android:77e92db3f747aeb12195fa",
+        "android_client_info": {
+          "package_name": "com.example.speechful"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92155936655-maggbdcghf7tavskqmq0ulhpsne79qij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUQGYNtjmkLp1k-anH6yt5-pEYpJn7JEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92155936655-maggbdcghf7tavskqmq0ulhpsne79qij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
