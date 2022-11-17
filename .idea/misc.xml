@@ -3,13 +3,21 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/lazar/AndroidStudioProjects/AND1-Text-to-Speech-App/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3165" />
+        <entry key="..\:/Users/lazar/AndroidStudioProjects/AND1-Text-to-Speech-App/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3165" />
+        <entry key="..\:/Users/lazar/AndroidStudioProjects/AND1-Text-to-Speech-App/app/src/main/res/layout/activity_login.xml" value="0.264" />
         <entry key="..\:/Users/lazar/AndroidStudioProjects/AND1-Text-to-Speech-App/app/src/main/res/layout/activity_main.xml" value="0.2994791666666667" />
         <entry key="..\:/Users/lazar/AndroidStudioProjects/AND1-Text-to-Speech-App/app/src/main/res/layout/activity_register_user.xml" value="0.44745762711864406" />
         <entry key="..\:/Users/lazar/AndroidStudioProjects/AND1-Text-to-Speech-App/app/src/main/res/layout/fragment_create_audio.xml" value="0.31354166666666666" />
         <entry key="..\:/Users/lazar/AndroidStudioProjects/AND1-Text-to-Speech-App/app/src/main/res/layout/fragment_library.xml" value="0.31354166666666666" />
+        <entry key="..\:/Users/lazar/AndroidStudioProjects/AND1-Text-to-Speech-App/app/src/main/res/layout/fragment_login.xml" value="0.5541666666666667" />
         <entry key="..\:/Users/lazar/AndroidStudioProjects/AND1-Text-to-Speech-App/app/src/main/res/layout/fragment_profile.xml" value="0.31354166666666666" />
+        <entry key="..\:/Users/lazar/AndroidStudioProjects/AND1-Text-to-Speech-App/app/src/main/res/layout/fragment_register.xml" value="0.5541666666666667" />
         <entry key="..\:/Users/lazar/AndroidStudioProjects/AND1-Text-to-Speech-App/app/src/main/res/layout/login.xml" value="0.3125" />
+        <entry key="..\:/Users/lazar/AndroidStudioProjects/AND1-Text-to-Speech-App/app/src/main/res/layout/test_activity.xml" value="0.31354166666666666" />
         <entry key="..\:/Users/lazar/AndroidStudioProjects/AND1-Text-to-Speech-App/app/src/main/res/menu/bottom_nav_menu.xml" value="0.31354166666666666" />
+        <entry key="..\:/Users/lazar/AndroidStudioProjects/AND1-Text-to-Speech-App/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.424" />
+        <entry key="..\:/Users/lazar/AndroidStudioProjects/AND1-Text-to-Speech-App/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.3165" />
         <entry key="..\:/Users/lazar/AndroidStudioProjects/Speechful/app/src/main/res/layout/activity_main.xml" value="0.5401041666666667" />
         <entry key="..\:/Users/lazar/AndroidStudioProjects/Speechful/app/src/main/res/layout/fragment_create_audio.xml" value="0.5401041666666667" />
         <entry key="..\:/Users/lazar/AndroidStudioProjects/Speechful/app/src/main/res/layout/fragment_library.xml" value="0.5541666666666667" />
