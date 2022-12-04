@@ -3,7 +3,8 @@
 
     <item android:title="Library"
         android:icon="@drawable/ic_baseline_library_24"
-        android:id="@+id/library"/>
+        android:id="@+id/library"
+        />
     <item android:title="Create Audio"
         android:icon="@drawable/ic_baseline_mic_none_24"
         android:id="@+id/createAudio"/>

@@ -1,16 +1,19 @@
 package com.example.speechful.model;
 
-public class User {
-    private String email, firstName, lastName;
+import java.util.ArrayList;
 
-    public User(){
+public class User {
+    private String email, name, password;
+    private ArrayList<Recording> recordings;
+    public User() {
 
     }
 
-    public User( String firstName, String lastName,String email) {
+    public User(String name, String email, String password) {
         this.email = email;
-        this.firstName = firstName;
-        this.lastName = lastName;
+        this.name = name;
+        this.password = password;
+        recordings = new ArrayList<>();
     }
 
     public String getEmail() {
@@ -21,19 +24,27 @@ public class User {
         this.email = email;
     }
 
-    public String getFirstName() {
-        return firstName;
+    public String getName() {
+        return name;
     }
 
-    public void setFirstName(String firstName) {
-        this.firstName = firstName;
+    public void setName(String name) {
+        this.name = name;
     }
 
-    public String getLastName() {
-        return lastName;
+    public String getPassword() {
+        return password;
     }
 
-    public void setLastName(String lastName) {
-        this.lastName = lastName;
+    public void setPassword(String password) {
+        this.password = password;
+    }
+
+    public ArrayList<Recording> getRecordings() {
+        return recordings;
+    }
+
+    public void setRecordings(ArrayList<Recording> recordings) {
+        this.recordings = recordings;
     }
 }

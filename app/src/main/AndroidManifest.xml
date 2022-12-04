@@ -2,7 +2,9 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     package="com.example.speechful">
-
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.MANAGE_EXTERNAL_STORAGE" />
     <application
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
@@ -11,15 +13,12 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.Speechful">
+        android:theme="@style/Theme.Speechful"><![CDATA[
 
         tools:targetApi="31">
+        ]]>
         <activity
-            android:name=".ui.login.LoginActivity"
-
-            android:exported="false" />
-        <activity
-            android:name=".MainActivity"
+            android:name=".main.MainActivity"
 
             android:exported="true">
             <intent-filter>

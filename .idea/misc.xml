@@ -4,16 +4,27 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/lazar/AndroidStudioProjects/AND1-Text-to-Speech-App/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3165" />
+        <entry key="..\:/Users/lazar/AndroidStudioProjects/AND1-Text-to-Speech-App/app/src/main/res/drawable/button_style.xml" value="0.425" />
+        <entry key="..\:/Users/lazar/AndroidStudioProjects/AND1-Text-to-Speech-App/app/src/main/res/drawable/edit_text_style.xml" value="0.404" />
+        <entry key="..\:/Users/lazar/AndroidStudioProjects/AND1-Text-to-Speech-App/app/src/main/res/drawable/gradient.xml" value="0.404" />
+        <entry key="..\:/Users/lazar/AndroidStudioProjects/AND1-Text-to-Speech-App/app/src/main/res/drawable/ic_baseline_play_circle_filled_24.xml" value="0.425" />
         <entry key="..\:/Users/lazar/AndroidStudioProjects/AND1-Text-to-Speech-App/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3165" />
+        <entry key="..\:/Users/lazar/AndroidStudioProjects/AND1-Text-to-Speech-App/app/src/main/res/drawable/list_item_shape.xml" value="0.3655" />
         <entry key="..\:/Users/lazar/AndroidStudioProjects/AND1-Text-to-Speech-App/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Users/lazar/AndroidStudioProjects/AND1-Text-to-Speech-App/app/src/main/res/layout/activity_login2.xml" value="0.31354166666666666" />
         <entry key="..\:/Users/lazar/AndroidStudioProjects/AND1-Text-to-Speech-App/app/src/main/res/layout/activity_main.xml" value="0.2994791666666667" />
         <entry key="..\:/Users/lazar/AndroidStudioProjects/AND1-Text-to-Speech-App/app/src/main/res/layout/activity_register_user.xml" value="0.44745762711864406" />
         <entry key="..\:/Users/lazar/AndroidStudioProjects/AND1-Text-to-Speech-App/app/src/main/res/layout/fragment_create_audio.xml" value="0.31354166666666666" />
         <entry key="..\:/Users/lazar/AndroidStudioProjects/AND1-Text-to-Speech-App/app/src/main/res/layout/fragment_library.xml" value="0.31354166666666666" />
-        <entry key="..\:/Users/lazar/AndroidStudioProjects/AND1-Text-to-Speech-App/app/src/main/res/layout/fragment_login.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/lazar/AndroidStudioProjects/AND1-Text-to-Speech-App/app/src/main/res/layout/fragment_login.xml" value="0.264" />
+        <entry key="..\:/Users/lazar/AndroidStudioProjects/AND1-Text-to-Speech-App/app/src/main/res/layout/fragment_login_tab.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/lazar/AndroidStudioProjects/AND1-Text-to-Speech-App/app/src/main/res/layout/fragment_login_tab2.xml" value="0.36614583333333334" />
         <entry key="..\:/Users/lazar/AndroidStudioProjects/AND1-Text-to-Speech-App/app/src/main/res/layout/fragment_profile.xml" value="0.31354166666666666" />
-        <entry key="..\:/Users/lazar/AndroidStudioProjects/AND1-Text-to-Speech-App/app/src/main/res/layout/fragment_register.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/lazar/AndroidStudioProjects/AND1-Text-to-Speech-App/app/src/main/res/layout/fragment_register.xml" value="0.264" />
+        <entry key="..\:/Users/lazar/AndroidStudioProjects/AND1-Text-to-Speech-App/app/src/main/res/layout/fragment_register_tab.xml" value="0.6" />
+        <entry key="..\:/Users/lazar/AndroidStudioProjects/AND1-Text-to-Speech-App/app/src/main/res/layout/list_item.xml" value="0.4" />
         <entry key="..\:/Users/lazar/AndroidStudioProjects/AND1-Text-to-Speech-App/app/src/main/res/layout/login.xml" value="0.3125" />
+        <entry key="..\:/Users/lazar/AndroidStudioProjects/AND1-Text-to-Speech-App/app/src/main/res/layout/recording_list.xml" value="0.28020833333333334" />
         <entry key="..\:/Users/lazar/AndroidStudioProjects/AND1-Text-to-Speech-App/app/src/main/res/layout/test_activity.xml" value="0.31354166666666666" />
         <entry key="..\:/Users/lazar/AndroidStudioProjects/AND1-Text-to-Speech-App/app/src/main/res/menu/bottom_nav_menu.xml" value="0.31354166666666666" />
         <entry key="..\:/Users/lazar/AndroidStudioProjects/AND1-Text-to-Speech-App/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.424" />
